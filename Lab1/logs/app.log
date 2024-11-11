@@ -1,0 +1,1710 @@
+I, [2024-11-09T15:10:40.435280 #19404]  INFO -- : Starting parse process
+I, [2024-11-09T15:10:41.453695 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-09T15:10:41.578412 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-09T15:10:41.579283 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-09T15:10:41.580582 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-09T15:10:41.580773 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-09T15:10:41.580919 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-09T15:10:41.579605 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-09T15:10:41.594144 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-09T15:10:41.595790 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-09T15:10:41.596879 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-09T15:10:41.595073 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-09T15:10:41.596016 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-09T15:10:41.594448 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-09T15:10:41.596498 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-09T15:10:41.597050 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-09T15:10:41.597182 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-09T15:10:41.597313 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-09T15:10:41.597464 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-09T15:10:41.597639 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-09T15:10:41.594864 #19404]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-09T15:10:41.750830 #19404]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-09T15:10:41.750913 #19404]  INFO -- : found A Light in the Attic 
+I, [2024-11-09T15:10:41.750953 #19404]  INFO -- : found £51.77 
+I, [2024-11-09T15:10:41.751142 #19404]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-09T15:10:41.893219 #19404]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-09T15:10:41.893476 #19404]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:41.893660 #19404]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:41.893752 #19404]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:41.955316 #19404]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-09T15:10:41.955488 #19404]  INFO -- : found Tipping the Velvet 
+I, [2024-11-09T15:10:41.956049 #19404]  INFO -- : found £53.74 
+I, [2024-11-09T15:10:41.956444 #19404]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-09T15:10:42.129304 #19404]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-09T15:10:42.237024 #19404]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-09T15:10:42.253001 #19404]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-09T15:10:42.261888 #19404]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-09T15:10:42.275754 #19404]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-09T15:10:42.281229 #19404]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-09T15:10:42.286943 #19404]  INFO -- : found £33.34 
+I, [2024-11-09T15:10:42.266528 #19404]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-09T15:10:42.296838 #19404]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-09T15:10:42.299661 #19404]  INFO -- : found £37.59 
+I, [2024-11-09T15:10:42.302277 #19404]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-09T15:10:42.302765 #19404]  INFO -- : found Soumission 
+I, [2024-11-09T15:10:42.308424 #19404]  INFO -- : found £50.10 
+I, [2024-11-09T15:10:42.252893 #19404]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-09T15:10:42.308758 #19404]  INFO -- : found Sharp Objects 
+I, [2024-11-09T15:10:42.308800 #19404]  INFO -- : found £47.82 
+I, [2024-11-09T15:10:42.308855 #19404]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-09T15:10:42.309060 #19404]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-09T15:10:42.270584 #19404]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-09T15:10:42.310203 #19404]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-09T15:10:42.310246 #19404]  INFO -- : found £51.33 
+I, [2024-11-09T15:10:42.280207 #19404]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-09T15:10:42.310310 #19404]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-09T15:10:42.310365 #19404]  INFO -- : found £57.25 
+I, [2024-11-09T15:10:42.308378 #19404]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-09T15:10:42.310466 #19404]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-09T15:10:42.310509 #19404]  INFO -- : found £45.17 
+I, [2024-11-09T15:10:42.286896 #19404]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-09T15:10:42.310608 #19404]  INFO -- : found The Requiem Red 
+I, [2024-11-09T15:10:42.310648 #19404]  INFO -- : found £22.65 
+I, [2024-11-09T15:10:42.294224 #19404]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-09T15:10:42.296792 #19404]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-09T15:10:42.310980 #19404]  INFO -- : found Olio 
+I, [2024-11-09T15:10:42.311025 #19404]  INFO -- : found £23.88 
+I, [2024-11-09T15:10:42.302723 #19404]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-09T15:10:42.306340 #19404]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-09T15:10:42.311251 #19404]  INFO -- : found The Black Maria 
+I, [2024-11-09T15:10:42.311336 #19404]  INFO -- : found £52.15 
+I, [2024-11-09T15:10:42.284585 #19404]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-09T15:10:42.311399 #19404]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-09T15:10:42.311439 #19404]  INFO -- : found £52.29 
+I, [2024-11-09T15:10:42.294176 #19404]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-09T15:10:42.311555 #19404]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-09T15:10:42.311596 #19404]  INFO -- : found £20.66 
+I, [2024-11-09T15:10:42.299614 #19404]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-09T15:10:42.311688 #19404]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-09T15:10:42.311727 #19404]  INFO -- : found £17.93 
+I, [2024-11-09T15:10:42.310401 #19404]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-09T15:10:42.261793 #19404]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-09T15:10:42.311999 #19404]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-09T15:10:42.312078 #19404]  INFO -- : found £54.23 
+I, [2024-11-09T15:10:42.311492 #19404]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-09T15:10:42.310682 #19404]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-09T15:10:42.310896 #19404]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-09T15:10:42.311631 #19404]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-09T15:10:42.258678 #19404]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-09T15:10:42.312929 #19404]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-09T15:10:42.312979 #19404]  INFO -- : found £35.02 
+I, [2024-11-09T15:10:42.311964 #19404]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-09T15:10:42.310546 #19404]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-09T15:10:42.292018 #19404]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-09T15:10:42.313519 #19404]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-09T15:10:42.313572 #19404]  INFO -- : found £13.99 
+I, [2024-11-09T15:10:42.311765 #19404]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-09T15:10:42.316494 #19404]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-09T15:10:42.318609 #19404]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-09T15:10:42.318656 #19404]  INFO -- : found £22.60 
+I, [2024-11-09T15:10:42.314042 #19404]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-09T15:10:42.318558 #19404]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-09T15:10:42.318944 #19404]  INFO -- : found Set Me Free 
+I, [2024-11-09T15:10:42.318984 #19404]  INFO -- : found £17.46 
+I, [2024-11-09T15:10:42.311216 #19404]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-09T15:10:42.318867 #19404]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-09T15:10:42.313258 #19404]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-09T15:10:42.312282 #19404]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-09T15:10:42.319172 #19404]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-09T15:10:42.456833 #19404]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-09T15:10:42.456905 #19404]  INFO -- : Created object Item: Soumission
+I, [2024-11-09T15:10:42.456949 #19404]  INFO -- : Added item: Soumission
+I, [2024-11-09T15:10:42.456989 #19404]  INFO -- : Parsed item: Soumission
+I, [2024-11-09T15:10:42.472401 #19404]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-09T15:10:42.472462 #19404]  INFO -- : Created object Item: Olio
+I, [2024-11-09T15:10:42.472502 #19404]  INFO -- : Added item: Olio
+I, [2024-11-09T15:10:42.472538 #19404]  INFO -- : Parsed item: Olio
+I, [2024-11-09T15:10:42.582736 #19404]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-09T15:10:42.582835 #19404]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:42.582872 #19404]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:42.582906 #19404]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:42.600432 #19404]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-09T15:10:42.600511 #19404]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-09T15:10:42.600658 #19404]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-09T15:10:42.600801 #19404]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-09T15:10:42.600608 #19404]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-09T15:10:42.600977 #19404]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:42.601169 #19404]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:42.601269 #19404]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:42.601076 #19404]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-09T15:10:42.601393 #19404]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:42.601437 #19404]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:42.601499 #19404]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:42.600718 #19404]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-09T15:10:42.601564 #19404]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-09T15:10:42.601620 #19404]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-09T15:10:42.601670 #19404]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-09T15:10:42.601223 #19404]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-09T15:10:42.601738 #19404]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:42.601786 #19404]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:42.601825 #19404]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:42.601313 #19404]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-09T15:10:42.601894 #19404]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:42.601949 #19404]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:42.601989 #19404]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:42.601029 #19404]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-09T15:10:42.602048 #19404]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:42.602099 #19404]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:42.602143 #19404]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:42.601113 #19404]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-09T15:10:42.602234 #19404]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:42.602283 #19404]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:42.602323 #19404]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:42.614272 #19404]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-09T15:10:42.614323 #19404]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-09T15:10:42.614362 #19404]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-09T15:10:42.614399 #19404]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-09T15:10:42.614467 #19404]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-09T15:10:42.614519 #19404]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:42.614558 #19404]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:42.614594 #19404]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:42.707456 #19404]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-09T15:10:42.707700 #19404]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:42.707883 #19404]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:42.708066 #19404]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:42.723536 #19404]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-09T15:10:42.723839 #19404]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:42.723947 #19404]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:42.724018 #19404]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:42.724123 #19404]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-09T15:10:42.724318 #19404]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:42.724407 #19404]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:42.724475 #19404]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:42.738156 #19404]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-09T15:10:42.738471 #19404]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-09T15:10:42.738763 #19404]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-09T15:10:42.738843 #19404]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-09T15:10:42.738639 #19404]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-09T15:10:42.738967 #19404]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:42.739031 #19404]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:42.739095 #19404]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:42.739243 #19404]  INFO -- : Parsing completed
+I, [2024-11-09T15:10:42.739355 #19404]  INFO -- : Executed method: run_website_parser
+I, [2024-11-09T15:10:42.739844 #19404]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-09T15:10:42.739910 #19404]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-09T15:10:42.740126 #19404]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-09T15:10:42.740169 #19404]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-09T15:10:42.744302 #19404]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-09T15:10:42.744355 #19404]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-09T15:10:42.744769 #19404]  INFO -- : Тестове повідомлення: перевірка логування
+I, [2024-11-09T15:10:54.224272 #7760]  INFO -- : Starting parse process
+I, [2024-11-09T15:10:55.233795 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-09T15:10:55.360247 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-09T15:10:55.361372 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-09T15:10:55.363151 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-09T15:10:55.361615 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-09T15:10:55.361800 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-09T15:10:55.362124 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-09T15:10:55.362367 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-09T15:10:55.362565 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-09T15:10:55.362708 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-09T15:10:55.360564 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-09T15:10:55.360789 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-09T15:10:55.375808 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-09T15:10:55.376195 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-09T15:10:55.376423 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-09T15:10:55.376818 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-09T15:10:55.377335 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-09T15:10:55.377515 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-09T15:10:55.377662 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-09T15:10:55.378062 #7760]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-09T15:10:55.533604 #7760]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-09T15:10:55.533842 #7760]  INFO -- : found A Light in the Attic 
+I, [2024-11-09T15:10:55.534066 #7760]  INFO -- : found £51.77 
+I, [2024-11-09T15:10:55.534438 #7760]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-09T15:10:55.671246 #7760]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-09T15:10:55.671345 #7760]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:55.671481 #7760]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:55.671534 #7760]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-09T15:10:55.741189 #7760]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-09T15:10:55.742622 #7760]  INFO -- : found Tipping the Velvet 
+I, [2024-11-09T15:10:55.743556 #7760]  INFO -- : found £53.74 
+I, [2024-11-09T15:10:55.744208 #7760]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-09T15:10:55.972181 #7760]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-09T15:10:55.996762 #7760]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-09T15:10:56.047327 #7760]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-09T15:10:56.053666 #7760]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-09T15:10:56.061454 #7760]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-09T15:10:56.061597 #7760]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-09T15:10:56.069896 #7760]  INFO -- : found £54.23 
+I, [2024-11-09T15:10:56.074576 #7760]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-09T15:10:56.093313 #7760]  INFO -- : found Soumission 
+I, [2024-11-09T15:10:56.095683 #7760]  INFO -- : found £50.10 
+I, [2024-11-09T15:10:56.100921 #7760]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-09T15:10:56.109690 #7760]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-09T15:10:56.109880 #7760]  INFO -- : found £52.29 
+I, [2024-11-09T15:10:56.117585 #7760]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-09T15:10:56.121530 #7760]  INFO -- : found The Requiem Red 
+I, [2024-11-09T15:10:56.121611 #7760]  INFO -- : found £22.65 
+I, [2024-11-09T15:10:56.103793 #7760]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-09T15:10:56.121685 #7760]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-09T15:10:56.121731 #7760]  INFO -- : found £33.34 
+I, [2024-11-09T15:10:56.087775 #7760]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-09T15:10:56.121801 #7760]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-09T15:10:56.121884 #7760]  INFO -- : found £22.60 
+I, [2024-11-09T15:10:56.115060 #7760]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-09T15:10:56.121996 #7760]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-09T15:10:56.122042 #7760]  INFO -- : found £57.25 
+I, [2024-11-09T15:10:56.121486 #7760]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-09T15:10:56.093269 #7760]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-09T15:10:56.095608 #7760]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-09T15:10:56.122703 #7760]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-09T15:10:56.122764 #7760]  INFO -- : found £51.33 
+I, [2024-11-09T15:10:56.109579 #7760]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-09T15:10:56.122833 #7760]  INFO -- : found Olio 
+I, [2024-11-09T15:10:56.122874 #7760]  INFO -- : found £23.88 
+I, [2024-11-09T15:10:56.121920 #7760]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-09T15:10:56.069717 #7760]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-09T15:10:56.123206 #7760]  INFO -- : found Sharp Objects 
+I, [2024-11-09T15:10:56.123248 #7760]  INFO -- : found £47.82 
+I, [2024-11-09T15:10:56.122083 #7760]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-09T15:10:56.122362 #7760]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-09T15:10:56.079585 #7760]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-09T15:10:56.123728 #7760]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-09T15:10:56.123786 #7760]  INFO -- : found £20.66 
+I, [2024-11-09T15:10:56.121848 #7760]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-09T15:10:56.122914 #7760]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-09T15:10:56.123118 #7760]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-09T15:10:56.121401 #7760]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-09T15:10:56.124573 #7760]  INFO -- : found The Black Maria 
+I, [2024-11-09T15:10:56.125532 #7760]  INFO -- : found £52.15 
+I, [2024-11-09T15:10:56.136141 #7760]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-09T15:10:56.136281 #7760]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-09T15:10:56.136320 #7760]  INFO -- : found £37.59 
+I, [2024-11-09T15:10:56.128604 #7760]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-09T15:10:56.136395 #7760]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-09T15:10:56.136439 #7760]  INFO -- : found £35.02 
+I, [2024-11-09T15:10:56.093137 #7760]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-09T15:10:56.136509 #7760]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-09T15:10:56.136585 #7760]  INFO -- : found £17.93 
+I, [2024-11-09T15:10:56.082236 #7760]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-09T15:10:56.136690 #7760]  INFO -- : found Set Me Free 
+I, [2024-11-09T15:10:56.136736 #7760]  INFO -- : found £17.46 
+I, [2024-11-09T15:10:56.130748 #7760]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-09T15:10:56.136829 #7760]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-09T15:10:56.136868 #7760]  INFO -- : found £45.17 
+I, [2024-11-09T15:10:56.123452 #7760]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-09T15:10:56.136619 #7760]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-09T15:10:56.136234 #7760]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-09T15:10:56.109649 #7760]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-09T15:10:56.124037 #7760]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-09T15:10:56.136772 #7760]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-09T15:10:56.133548 #7760]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-09T15:10:56.138546 #7760]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-09T15:10:56.138618 #7760]  INFO -- : found £13.99 
+I, [2024-11-09T15:10:56.137159 #7760]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-09T15:10:56.136548 #7760]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-09T15:10:56.136902 #7760]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-09T15:10:56.138926 #7760]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-09T15:10:56.266721 #7760]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-09T15:10:56.266800 #7760]  INFO -- : Created object Item: Olio
+I, [2024-11-09T15:10:56.266846 #7760]  INFO -- : Added item: Olio
+I, [2024-11-09T15:10:56.266883 #7760]  INFO -- : Parsed item: Olio
+I, [2024-11-09T15:10:56.282139 #7760]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-09T15:10:56.282211 #7760]  INFO -- : Created object Item: Soumission
+I, [2024-11-09T15:10:56.282252 #7760]  INFO -- : Added item: Soumission
+I, [2024-11-09T15:10:56.282288 #7760]  INFO -- : Parsed item: Soumission
+I, [2024-11-09T15:10:56.393487 #7760]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-09T15:10:56.393605 #7760]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:56.393695 #7760]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:56.393761 #7760]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-09T15:10:56.393901 #7760]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-09T15:10:56.393958 #7760]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:56.394010 #7760]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:56.394059 #7760]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-09T15:10:56.393812 #7760]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-09T15:10:56.394117 #7760]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:56.394163 #7760]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:56.394202 #7760]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-09T15:10:56.407904 #7760]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-09T15:10:56.408063 #7760]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-09T15:10:56.408229 #7760]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-09T15:10:56.408304 #7760]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-09T15:10:56.408005 #7760]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-09T15:10:56.408386 #7760]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:56.408551 #7760]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:56.408591 #7760]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-09T15:10:56.408472 #7760]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-09T15:10:56.408659 #7760]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-09T15:10:56.408707 #7760]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-09T15:10:56.408769 #7760]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-09T15:10:56.408512 #7760]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-09T15:10:56.408834 #7760]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:56.408880 #7760]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:56.408918 #7760]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-09T15:10:56.408432 #7760]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-09T15:10:56.408979 #7760]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:56.409030 #7760]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:56.409073 #7760]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-09T15:10:56.408183 #7760]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-09T15:10:56.409128 #7760]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:56.409172 #7760]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:56.409209 #7760]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-09T15:10:56.423090 #7760]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-09T15:10:56.423207 #7760]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:56.423294 #7760]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:56.423395 #7760]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-09T15:10:56.423351 #7760]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-09T15:10:56.423470 #7760]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-09T15:10:56.423522 #7760]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-09T15:10:56.423567 #7760]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-09T15:10:56.423153 #7760]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-09T15:10:56.423631 #7760]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-09T15:10:56.423685 #7760]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-09T15:10:56.423743 #7760]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-09T15:10:56.439285 #7760]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-09T15:10:56.439417 #7760]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:56.439466 #7760]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:56.439526 #7760]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-09T15:10:56.548442 #7760]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-09T15:10:56.548709 #7760]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:56.548999 #7760]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:56.549235 #7760]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-09T15:10:56.549047 #7760]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-09T15:10:56.549320 #7760]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:56.549377 #7760]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:56.549426 #7760]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-09T15:10:56.548802 #7760]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-09T15:10:56.549493 #7760]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:56.549550 #7760]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:56.549593 #7760]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-09T15:10:56.549684 #7760]  INFO -- : Parsing completed
+I, [2024-11-09T15:10:56.549762 #7760]  INFO -- : Executed method: run_website_parser
+I, [2024-11-09T15:10:56.550513 #7760]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-09T15:10:56.550592 #7760]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-09T15:10:56.551019 #7760]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-09T15:10:56.551073 #7760]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-09T15:10:56.555367 #7760]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-09T15:10:56.555434 #7760]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-09T15:10:56.555732 #7760]  INFO -- : Тестове повідомлення: перевірка логування
+I, [2024-11-10T19:52:56.501014 #11824]  INFO -- : Starting parse process
+I, [2024-11-10T19:52:57.897729 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T19:52:58.021564 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T19:52:58.022207 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T19:52:58.022492 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T19:52:58.022687 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T19:52:58.022996 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T19:52:58.023316 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T19:52:58.023640 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T19:52:58.036515 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T19:52:58.038379 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T19:52:58.037110 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T19:52:58.037245 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T19:52:58.037375 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T19:52:58.037548 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T19:52:58.037705 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T19:52:58.037880 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T19:52:58.038032 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T19:52:58.038504 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T19:52:58.038646 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T19:52:58.036959 #11824]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T19:52:58.212440 #11824]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T19:52:58.212634 #11824]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T19:52:58.212823 #11824]  INFO -- : found £52.29 
+I, [2024-11-10T19:52:58.213194 #11824]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:52:58.366789 #11824]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:52:58.366915 #11824]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:52:58.367032 #11824]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:52:58.367103 #11824]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:52:58.396354 #11824]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T19:52:58.396849 #11824]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T19:52:58.397052 #11824]  INFO -- : found £53.74 
+I, [2024-11-10T19:52:58.400551 #11824]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T19:52:58.400903 #11824]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T19:52:58.401093 #11824]  INFO -- : found £51.77 
+I, [2024-11-10T19:52:58.401911 #11824]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:52:58.403233 #11824]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:52:58.667980 #11824]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T19:52:58.668077 #11824]  INFO -- : found Soumission 
+I, [2024-11-10T19:52:58.668119 #11824]  INFO -- : found £50.10 
+I, [2024-11-10T19:52:58.589146 #11824]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:52:58.668193 #11824]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T19:52:58.668461 #11824]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T19:52:58.668539 #11824]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T19:52:58.668499 #11824]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T19:52:58.692031 #11824]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T19:52:58.701803 #11824]  INFO -- : found The Black Maria 
+I, [2024-11-10T19:52:58.714089 #11824]  INFO -- : found £52.15 
+I, [2024-11-10T19:52:58.722793 #11824]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T19:52:58.723551 #11824]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T19:52:58.727275 #11824]  INFO -- : found £35.02 
+I, [2024-11-10T19:52:58.709658 #11824]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T19:52:58.748281 #11824]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T19:52:58.750520 #11824]  INFO -- : found £33.34 
+I, [2024-11-10T19:52:58.750597 #11824]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:52:58.750659 #11824]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T19:52:58.750752 #11824]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T19:52:58.750791 #11824]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T19:52:58.736521 #11824]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T19:52:58.750846 #11824]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T19:52:58.750888 #11824]  INFO -- : found £37.59 
+I, [2024-11-10T19:52:58.719507 #11824]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T19:52:58.750957 #11824]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T19:52:58.750999 #11824]  INFO -- : found £54.23 
+I, [2024-11-10T19:52:58.745784 #11824]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T19:52:58.751134 #11824]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T19:52:58.751209 #11824]  INFO -- : found £45.17 
+I, [2024-11-10T19:52:58.723507 #11824]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:52:58.726022 #11824]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T19:52:58.751503 #11824]  INFO -- : found Sharp Objects 
+I, [2024-11-10T19:52:58.751611 #11824]  INFO -- : found £47.82 
+I, [2024-11-10T19:52:58.716967 #11824]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T19:52:58.751675 #11824]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T19:52:58.751711 #11824]  INFO -- : found £13.99 
+I, [2024-11-10T19:52:58.738880 #11824]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T19:52:58.751805 #11824]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T19:52:58.751861 #11824]  INFO -- : found £20.66 
+I, [2024-11-10T19:52:58.751035 #11824]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:52:58.743657 #11824]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T19:52:58.752162 #11824]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T19:52:58.752260 #11824]  INFO -- : found £22.60 
+I, [2024-11-10T19:52:58.750453 #11824]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T19:52:58.752329 #11824]  INFO -- : found Olio 
+I, [2024-11-10T19:52:58.752366 #11824]  INFO -- : found £23.88 
+I, [2024-11-10T19:52:58.750707 #11824]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:52:58.730238 #11824]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T19:52:58.752735 #11824]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T19:52:58.752789 #11824]  INFO -- : found £17.93 
+I, [2024-11-10T19:52:58.740951 #11824]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T19:52:58.752860 #11824]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T19:52:58.752953 #11824]  INFO -- : found £51.33 
+I, [2024-11-10T19:52:58.752129 #11824]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:52:58.748223 #11824]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T19:52:58.753276 #11824]  INFO -- : found Set Me Free 
+I, [2024-11-10T19:52:58.753318 #11824]  INFO -- : found £17.46 
+I, [2024-11-10T19:52:58.714023 #11824]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T19:52:58.753381 #11824]  INFO -- : found The Requiem Red 
+I, [2024-11-10T19:52:58.753426 #11824]  INFO -- : found £22.65 
+I, [2024-11-10T19:52:58.734225 #11824]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T19:52:58.753518 #11824]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T19:52:58.753554 #11824]  INFO -- : found £57.25 
+I, [2024-11-10T19:52:58.752919 #11824]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:52:58.741443 #11824]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:52:58.753181 #11824]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:52:58.751175 #11824]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:52:58.751468 #11824]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:52:58.752407 #11824]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:52:58.752643 #11824]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T19:52:58.753463 #11824]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:52:58.751746 #11824]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:52:58.751900 #11824]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:52:58.753589 #11824]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:52:58.753812 #11824]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:52:58.810966 #11824]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T19:52:58.811124 #11824]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T19:52:58.811198 #11824]  INFO -- : Added item: Soumission
+I, [2024-11-10T19:52:58.811291 #11824]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T19:52:58.891338 #11824]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:52:58.891409 #11824]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:52:58.891478 #11824]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:52:58.891515 #11824]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:52:58.906273 #11824]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T19:52:58.906339 #11824]  INFO -- : Created object Item: Olio
+I, [2024-11-10T19:52:58.906385 #11824]  INFO -- : Added item: Olio
+I, [2024-11-10T19:52:58.906422 #11824]  INFO -- : Parsed item: Olio
+I, [2024-11-10T19:52:58.919897 #11824]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:52:58.919970 #11824]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T19:52:58.920009 #11824]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T19:52:58.920045 #11824]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T19:52:59.042261 #11824]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:52:59.042573 #11824]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:52:59.042714 #11824]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:52:59.042946 #11824]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:52:59.042769 #11824]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:52:59.043265 #11824]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T19:52:59.043398 #11824]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T19:52:59.043484 #11824]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T19:52:59.043346 #11824]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:52:59.043542 #11824]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T19:52:59.043588 #11824]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T19:52:59.043627 #11824]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T19:52:59.043178 #11824]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:52:59.043714 #11824]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T19:52:59.043444 #11824]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:52:59.043835 #11824]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T19:52:59.044050 #11824]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T19:52:59.044189 #11824]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T19:52:59.043760 #11824]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T19:52:59.044817 #11824]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T19:52:59.045414 #11824]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:52:59.045494 #11824]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:52:59.045569 #11824]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:52:59.045657 #11824]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:52:59.045604 #11824]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:52:59.045749 #11824]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:52:59.045882 #11824]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:52:59.045966 #11824]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:52:59.045923 #11824]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:52:59.046032 #11824]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:52:59.046077 #11824]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:52:59.046116 #11824]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:52:59.045843 #11824]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:52:59.046172 #11824]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:52:59.046226 #11824]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:52:59.046269 #11824]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:52:59.045798 #11824]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:52:59.046326 #11824]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:52:59.046372 #11824]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:52:59.046409 #11824]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:52:59.092329 #11824]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:52:59.092517 #11824]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:52:59.092705 #11824]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:52:59.092888 #11824]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:52:59.156230 #11824]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:52:59.156459 #11824]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:52:59.156658 #11824]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:52:59.156841 #11824]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:52:59.188208 #11824]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:52:59.188430 #11824]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:52:59.188618 #11824]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:52:59.188810 #11824]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:52:59.189009 #11824]  INFO -- : Parsing completed
+I, [2024-11-10T19:52:59.189071 #11824]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T19:52:59.226413 #11824]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T19:52:59.226642 #11824]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T19:52:59.227058 #11824]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T19:52:59.227264 #11824]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T19:52:59.235667 #11824]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T19:52:59.235771 #11824]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T19:52:59.251705 #11824]  INFO -- : Тестове повідомлення: перевірка логування
+I, [2024-11-10T19:53:47.646473 #15304]  INFO -- : Starting parse process
+I, [2024-11-10T19:53:48.640218 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T19:53:48.765970 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T19:53:48.767612 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T19:53:48.768335 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T19:53:48.767006 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T19:53:48.766297 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T19:53:48.767924 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T19:53:48.768602 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T19:53:48.768795 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T19:53:48.766638 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T19:53:48.781699 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T19:53:48.783757 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T19:53:48.782279 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T19:53:48.782588 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T19:53:48.782893 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T19:53:48.783178 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T19:53:48.783340 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T19:53:48.782001 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T19:53:48.784061 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T19:53:48.784285 #15304]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T19:53:48.937523 #15304]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T19:53:48.937603 #15304]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T19:53:48.937642 #15304]  INFO -- : found £51.77 
+I, [2024-11-10T19:53:48.937843 #15304]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:53:49.080213 #15304]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:53:49.080389 #15304]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T19:53:49.080545 #15304]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T19:53:49.080723 #15304]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T19:53:49.141649 #15304]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T19:53:49.141790 #15304]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T19:53:49.141906 #15304]  INFO -- : found £53.74 
+I, [2024-11-10T19:53:49.142172 #15304]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:53:49.378583 #15304]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:53:49.425092 #15304]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T19:53:49.443667 #15304]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T19:53:49.443782 #15304]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T19:53:49.449912 #15304]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T19:53:49.459429 #15304]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T19:53:49.464051 #15304]  INFO -- : found £13.99 
+I, [2024-11-10T19:53:49.434974 #15304]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T19:53:49.473501 #15304]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T19:53:49.473556 #15304]  INFO -- : found £22.60 
+I, [2024-11-10T19:53:49.459361 #15304]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T19:53:49.473656 #15304]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T19:53:49.474086 #15304]  INFO -- : found £54.23 
+I, [2024-11-10T19:53:49.443579 #15304]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T19:53:49.474202 #15304]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T19:53:49.474256 #15304]  INFO -- : found £35.02 
+I, [2024-11-10T19:53:49.455300 #15304]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T19:53:49.474371 #15304]  INFO -- : found The Black Maria 
+I, [2024-11-10T19:53:49.474423 #15304]  INFO -- : found £52.15 
+I, [2024-11-10T19:53:49.463031 #15304]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T19:53:49.474530 #15304]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T19:53:49.474579 #15304]  INFO -- : found £37.59 
+I, [2024-11-10T19:53:49.473365 #15304]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T19:53:49.474685 #15304]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T19:53:49.474736 #15304]  INFO -- : found £33.34 
+I, [2024-11-10T19:53:49.438829 #15304]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T19:53:49.474841 #15304]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T19:53:49.474891 #15304]  INFO -- : found £45.17 
+I, [2024-11-10T19:53:49.474126 #15304]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:53:49.468934 #15304]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T19:53:49.475266 #15304]  INFO -- : found Olio 
+I, [2024-11-10T19:53:49.476618 #15304]  INFO -- : found £23.88 
+I, [2024-11-10T19:53:49.474304 #15304]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:53:49.474778 #15304]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:53:49.473717 #15304]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:53:49.474467 #15304]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:53:49.474935 #15304]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:53:49.475225 #15304]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:53:49.474623 #15304]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:53:49.485169 #15304]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T19:53:49.487388 #15304]  INFO -- : found Sharp Objects 
+I, [2024-11-10T19:53:49.487439 #15304]  INFO -- : found £47.82 
+I, [2024-11-10T19:53:49.487345 #15304]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T19:53:49.487506 #15304]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T19:53:49.487545 #15304]  INFO -- : found £20.66 
+I, [2024-11-10T19:53:49.476955 #15304]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T19:53:49.429717 #15304]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T19:53:49.487885 #15304]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T19:53:49.487928 #15304]  INFO -- : found £52.29 
+I, [2024-11-10T19:53:49.487603 #15304]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:53:49.487793 #15304]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:53:49.488129 #15304]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:53:49.500853 #15304]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T19:53:49.501087 #15304]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T19:53:49.506807 #15304]  INFO -- : found £51.33 
+I, [2024-11-10T19:53:49.504700 #15304]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T19:53:49.510828 #15304]  INFO -- : found Soumission 
+I, [2024-11-10T19:53:49.510871 #15304]  INFO -- : found £50.10 
+I, [2024-11-10T19:53:49.510751 #15304]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T19:53:49.510962 #15304]  INFO -- : found The Requiem Red 
+I, [2024-11-10T19:53:49.511028 #15304]  INFO -- : found £22.65 
+I, [2024-11-10T19:53:49.509015 #15304]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T19:53:49.511090 #15304]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T19:53:49.511128 #15304]  INFO -- : found £17.93 
+I, [2024-11-10T19:53:49.510996 #15304]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T19:53:49.506766 #15304]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T19:53:49.511734 #15304]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T19:53:49.511783 #15304]  INFO -- : found £57.25 
+I, [2024-11-10T19:53:49.511163 #15304]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:53:49.511642 #15304]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:53:49.510925 #15304]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:53:49.503142 #15304]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T19:53:49.512472 #15304]  INFO -- : found Set Me Free 
+I, [2024-11-10T19:53:49.512521 #15304]  INFO -- : found £17.46 
+I, [2024-11-10T19:53:49.511998 #15304]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:53:49.512760 #15304]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:53:49.624727 #15304]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T19:53:49.624799 #15304]  INFO -- : Created object Item: Olio
+I, [2024-11-10T19:53:49.624876 #15304]  INFO -- : Added item: Olio
+I, [2024-11-10T19:53:49.624913 #15304]  INFO -- : Parsed item: Olio
+I, [2024-11-10T19:53:49.624837 #15304]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:53:49.624968 #15304]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:53:49.625011 #15304]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:53:49.625048 #15304]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:53:49.654485 #15304]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T19:53:49.654549 #15304]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T19:53:49.654588 #15304]  INFO -- : Added item: Soumission
+I, [2024-11-10T19:53:49.654624 #15304]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T19:53:49.748063 #15304]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:53:49.748179 #15304]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:53:49.748231 #15304]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:53:49.748269 #15304]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:53:49.765186 #15304]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:53:49.765302 #15304]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:53:49.765387 #15304]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:53:49.765469 #15304]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:53:49.765593 #15304]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:53:49.765691 #15304]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T19:53:49.765776 #15304]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T19:53:49.765816 #15304]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T19:53:49.765539 #15304]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:53:49.765873 #15304]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T19:53:49.765915 #15304]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T19:53:49.765963 #15304]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T19:53:49.765736 #15304]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:53:49.766023 #15304]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:53:49.766072 #15304]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:53:49.766112 #15304]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:53:49.765640 #15304]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:53:49.766168 #15304]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:53:49.766214 #15304]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:53:49.766252 #15304]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:53:49.765252 #15304]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:53:49.766306 #15304]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:53:49.766351 #15304]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:53:49.766388 #15304]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:53:49.778868 #15304]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:53:49.778923 #15304]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T19:53:49.778963 #15304]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T19:53:49.779000 #15304]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T19:53:49.795001 #15304]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:53:49.795074 #15304]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:53:49.795162 #15304]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:53:49.795276 #15304]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:53:49.795116 #15304]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:53:49.795332 #15304]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T19:53:49.795375 #15304]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T19:53:49.795416 #15304]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T19:53:49.795197 #15304]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:53:49.795472 #15304]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T19:53:49.795521 #15304]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T19:53:49.795568 #15304]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T19:53:49.795242 #15304]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:53:49.795624 #15304]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:53:49.795667 #15304]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:53:49.795703 #15304]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:53:49.872489 #15304]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:53:49.872607 #15304]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:53:49.872655 #15304]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:53:49.872698 #15304]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:53:49.904251 #15304]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:53:49.904482 #15304]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:53:49.904708 #15304]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:53:49.904904 #15304]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:53:49.935318 #15304]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:53:49.935537 #15304]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:53:49.935724 #15304]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:53:49.935912 #15304]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:53:49.936083 #15304]  INFO -- : Parsing completed
+I, [2024-11-10T19:53:49.936147 #15304]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T19:53:49.936600 #15304]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T19:53:49.936719 #15304]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T19:53:49.936946 #15304]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T19:53:49.937088 #15304]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T19:53:49.941070 #15304]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T19:53:49.941122 #15304]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T19:53:49.941604 #15304]  INFO -- : Тестове повідомлення: перевірка логування
+I, [2024-11-10T19:57:18.624321 #2828]  INFO -- : Starting parse process
+I, [2024-11-10T19:57:19.638946 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T19:57:19.763954 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T19:57:19.766537 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T19:57:19.764940 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T19:57:19.765299 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T19:57:19.765595 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T19:57:19.765942 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T19:57:19.766761 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T19:57:19.764219 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T19:57:19.780004 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T19:57:19.781407 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T19:57:19.781676 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T19:57:19.782010 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T19:57:19.782219 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T19:57:19.782431 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T19:57:19.782620 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T19:57:19.782753 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T19:57:19.782920 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T19:57:19.783089 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T19:57:19.783216 #2828]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T19:57:19.937756 #2828]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T19:57:19.937941 #2828]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T19:57:19.937992 #2828]  INFO -- : found £51.77 
+I, [2024-11-10T19:57:19.938289 #2828]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:57:20.079066 #2828]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:57:20.079252 #2828]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T19:57:20.079356 #2828]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T19:57:20.079556 #2828]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T19:57:20.141878 #2828]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T19:57:20.142171 #2828]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T19:57:20.142753 #2828]  INFO -- : found £53.74 
+I, [2024-11-10T19:57:20.143574 #2828]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:57:20.395163 #2828]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:57:20.419887 #2828]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T19:57:20.425802 #2828]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T19:57:20.425888 #2828]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T19:57:20.431039 #2828]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T19:57:20.440674 #2828]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T19:57:20.444726 #2828]  INFO -- : found £13.99 
+I, [2024-11-10T19:57:20.449644 #2828]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T19:57:20.455364 #2828]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T19:57:20.455453 #2828]  INFO -- : found £20.66 
+I, [2024-11-10T19:57:20.461830 #2828]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T19:57:20.464575 #2828]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T19:57:20.464625 #2828]  INFO -- : found £17.93 
+I, [2024-11-10T19:57:20.455326 #2828]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:57:20.457520 #2828]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T19:57:20.465938 #2828]  INFO -- : found Soumission 
+I, [2024-11-10T19:57:20.466000 #2828]  INFO -- : found £50.10 
+I, [2024-11-10T19:57:20.435514 #2828]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T19:57:20.466075 #2828]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T19:57:20.466134 #2828]  INFO -- : found £57.25 
+I, [2024-11-10T19:57:20.455253 #2828]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T19:57:20.466257 #2828]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T19:57:20.466302 #2828]  INFO -- : found £22.60 
+I, [2024-11-10T19:57:20.444638 #2828]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T19:57:20.466414 #2828]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T19:57:20.466455 #2828]  INFO -- : found £51.33 
+I, [2024-11-10T19:57:20.425737 #2828]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T19:57:20.466549 #2828]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T19:57:20.466585 #2828]  INFO -- : found £33.34 
+I, [2024-11-10T19:57:20.464879 #2828]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:57:20.466342 #2828]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:57:20.464480 #2828]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T19:57:20.467947 #2828]  INFO -- : found Olio 
+I, [2024-11-10T19:57:20.468045 #2828]  INFO -- : found £23.88 
+I, [2024-11-10T19:57:20.474682 #2828]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T19:57:20.484689 #2828]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T19:57:20.484752 #2828]  INFO -- : found £54.23 
+I, [2024-11-10T19:57:20.486987 #2828]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T19:57:20.489003 #2828]  INFO -- : found The Black Maria 
+I, [2024-11-10T19:57:20.489043 #2828]  INFO -- : found £52.15 
+I, [2024-11-10T19:57:20.477249 #2828]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T19:57:20.489106 #2828]  INFO -- : found The Requiem Red 
+I, [2024-11-10T19:57:20.489143 #2828]  INFO -- : found £22.65 
+I, [2024-11-10T19:57:20.482571 #2828]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T19:57:20.489240 #2828]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T19:57:20.489282 #2828]  INFO -- : found £35.02 
+I, [2024-11-10T19:57:20.484652 #2828]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T19:57:20.440176 #2828]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T19:57:20.489573 #2828]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T19:57:20.489664 #2828]  INFO -- : found £37.59 
+I, [2024-11-10T19:57:20.488968 #2828]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:57:20.466865 #2828]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:57:20.471716 #2828]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T19:57:20.490158 #2828]  INFO -- : found Sharp Objects 
+I, [2024-11-10T19:57:20.490202 #2828]  INFO -- : found £47.82 
+I, [2024-11-10T19:57:20.489178 #2828]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:57:20.466491 #2828]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:57:20.484605 #2828]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T19:57:20.491058 #2828]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T19:57:20.491109 #2828]  INFO -- : found £45.17 
+I, [2024-11-10T19:57:20.489539 #2828]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:57:20.466621 #2828]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:57:20.488927 #2828]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T19:57:20.491607 #2828]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T19:57:20.491656 #2828]  INFO -- : found £52.29 
+I, [2024-11-10T19:57:20.480551 #2828]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T19:57:20.491738 #2828]  INFO -- : found Set Me Free 
+I, [2024-11-10T19:57:20.491789 #2828]  INFO -- : found £17.46 
+I, [2024-11-10T19:57:20.489318 #2828]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:57:20.491338 #2828]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:57:20.489862 #2828]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:57:20.464536 #2828]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:57:20.490785 #2828]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:57:20.466187 #2828]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T19:57:20.491828 #2828]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:57:20.492024 #2828]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:57:20.639352 #2828]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:57:20.639431 #2828]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:57:20.639556 #2828]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:57:20.639595 #2828]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:57:20.639474 #2828]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T19:57:20.639651 #2828]  INFO -- : Created object Item: Olio
+I, [2024-11-10T19:57:20.639696 #2828]  INFO -- : Added item: Olio
+I, [2024-11-10T19:57:20.639734 #2828]  INFO -- : Parsed item: Olio
+I, [2024-11-10T19:57:20.639512 #2828]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T19:57:20.639793 #2828]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T19:57:20.639838 #2828]  INFO -- : Added item: Soumission
+I, [2024-11-10T19:57:20.639876 #2828]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T19:57:20.732690 #2828]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:57:20.732905 #2828]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:57:20.733093 #2828]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:57:20.733245 #2828]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:57:20.764371 #2828]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:57:20.764459 #2828]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T19:57:20.764537 #2828]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T19:57:20.764649 #2828]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T19:57:20.764582 #2828]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:57:20.764725 #2828]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T19:57:20.764891 #2828]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T19:57:20.764937 #2828]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T19:57:20.764788 #2828]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:57:20.764995 #2828]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:57:20.765066 #2828]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:57:20.765109 #2828]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:57:20.764849 #2828]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:57:20.765165 #2828]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T19:57:20.765208 #2828]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T19:57:20.765247 #2828]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T19:57:20.779107 #2828]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:57:20.779169 #2828]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:57:20.779215 #2828]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:57:20.779329 #2828]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:57:20.779291 #2828]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:57:20.779388 #2828]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:57:20.779433 #2828]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:57:20.779485 #2828]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:57:20.779249 #2828]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:57:20.779542 #2828]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:57:20.779584 #2828]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:57:20.779620 #2828]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:57:20.794124 #2828]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:57:20.794183 #2828]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T19:57:20.794238 #2828]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T19:57:20.794326 #2828]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T19:57:20.794287 #2828]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:57:20.794386 #2828]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:57:20.794429 #2828]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:57:20.794466 #2828]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:57:20.809399 #2828]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:57:20.809516 #2828]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:57:20.809589 #2828]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:57:20.809658 #2828]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:57:20.871329 #2828]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:57:20.871452 #2828]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:57:20.871502 #2828]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:57:20.871547 #2828]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:57:20.887098 #2828]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:57:20.887296 #2828]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:57:20.887493 #2828]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:57:20.887683 #2828]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:57:20.933174 #2828]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:57:20.933390 #2828]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T19:57:20.933576 #2828]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T19:57:20.933764 #2828]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T19:57:20.964912 #2828]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:57:20.965134 #2828]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:57:20.965325 #2828]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:57:20.965511 #2828]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:57:20.965606 #2828]  INFO -- : Parsing completed
+I, [2024-11-10T19:57:20.965669 #2828]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T19:57:20.966137 #2828]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T19:57:20.966188 #2828]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T19:57:20.966411 #2828]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T19:57:20.966551 #2828]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T19:57:20.970836 #2828]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T19:57:20.970887 #2828]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T19:58:49.755692 #12220]  INFO -- : Starting parse process
+I, [2024-11-10T19:58:50.812421 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T19:58:50.936106 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T19:58:50.938235 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T19:58:50.939954 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T19:58:50.937606 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T19:58:50.938652 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T19:58:50.936696 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T19:58:50.939119 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T19:58:50.939463 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T19:58:50.937303 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T19:58:50.951720 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T19:58:50.953610 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T19:58:50.952405 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T19:58:50.952680 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T19:58:50.952997 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T19:58:50.953171 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T19:58:50.953752 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T19:58:50.953919 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T19:58:50.952095 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T19:58:50.954342 #12220]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T19:58:51.110465 #12220]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T19:58:51.110625 #12220]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T19:58:51.110710 #12220]  INFO -- : found £51.77 
+I, [2024-11-10T19:58:51.111053 #12220]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:58:51.251717 #12220]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T19:58:51.251845 #12220]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T19:58:51.251983 #12220]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T19:58:51.252227 #12220]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T19:58:51.565130 #12220]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T19:58:51.573169 #12220]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T19:58:51.636747 #12220]  INFO -- : found £57.25 
+I, [2024-11-10T19:58:51.640953 #12220]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T19:58:51.641462 #12220]  INFO -- : found Sharp Objects 
+I, [2024-11-10T19:58:51.654180 #12220]  INFO -- : found £47.82 
+I, [2024-11-10T19:58:51.641400 #12220]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:58:51.650291 #12220]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T19:58:51.680399 #12220]  INFO -- : found Set Me Free 
+I, [2024-11-10T19:58:51.683391 #12220]  INFO -- : found £17.46 
+I, [2024-11-10T19:58:51.656811 #12220]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T19:58:51.683463 #12220]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T19:58:51.683507 #12220]  INFO -- : found £51.33 
+I, [2024-11-10T19:58:51.683563 #12220]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:58:51.683762 #12220]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:58:51.668783 #12220]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T19:58:51.685830 #12220]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T19:58:51.688422 #12220]  INFO -- : found £37.59 
+I, [2024-11-10T19:58:51.671426 #12220]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T19:58:51.693210 #12220]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T19:58:51.693254 #12220]  INFO -- : found £45.17 
+I, [2024-11-10T19:58:51.683349 #12220]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T19:58:51.693356 #12220]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T19:58:51.693398 #12220]  INFO -- : found £52.29 
+I, [2024-11-10T19:58:51.659536 #12220]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T19:58:51.693540 #12220]  INFO -- : found The Requiem Red 
+I, [2024-11-10T19:58:51.693614 #12220]  INFO -- : found £22.65 
+I, [2024-11-10T19:58:51.665720 #12220]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T19:58:51.693678 #12220]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T19:58:51.693718 #12220]  INFO -- : found £54.23 
+I, [2024-11-10T19:58:51.693132 #12220]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T19:58:51.693807 #12220]  INFO -- : found Olio 
+I, [2024-11-10T19:58:51.693841 #12220]  INFO -- : found £23.88 
+I, [2024-11-10T19:58:51.677736 #12220]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T19:58:51.693932 #12220]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T19:58:51.693972 #12220]  INFO -- : found £13.99 
+I, [2024-11-10T19:58:51.653511 #12220]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T19:58:51.694066 #12220]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T19:58:51.694106 #12220]  INFO -- : found £35.02 
+I, [2024-11-10T19:58:51.693577 #12220]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:58:51.663492 #12220]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T19:58:51.694381 #12220]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T19:58:51.694469 #12220]  INFO -- : found £20.66 
+I, [2024-11-10T19:58:51.691174 #12220]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T19:58:51.694532 #12220]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T19:58:51.694568 #12220]  INFO -- : found £33.34 
+I, [2024-11-10T19:58:51.674445 #12220]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T19:58:51.694670 #12220]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T19:58:51.694717 #12220]  INFO -- : found £22.60 
+I, [2024-11-10T19:58:51.693290 #12220]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:58:51.694006 #12220]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T19:58:51.693438 #12220]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:58:51.694138 #12220]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:58:51.636676 #12220]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T19:58:51.695651 #12220]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T19:58:51.695704 #12220]  INFO -- : found £53.74 
+I, [2024-11-10T19:58:51.688000 #12220]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T19:58:51.695789 #12220]  INFO -- : found Soumission 
+I, [2024-11-10T19:58:51.695846 #12220]  INFO -- : found £50.10 
+I, [2024-11-10T19:58:51.694604 #12220]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:58:51.693876 #12220]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:58:51.680357 #12220]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T19:58:51.696676 #12220]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T19:58:51.696732 #12220]  INFO -- : found £17.93 
+I, [2024-11-10T19:58:51.694348 #12220]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:58:51.663537 #12220]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:58:51.693752 #12220]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:58:51.646507 #12220]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T19:58:51.697427 #12220]  INFO -- : found The Black Maria 
+I, [2024-11-10T19:58:51.697480 #12220]  INFO -- : found £52.15 
+I, [2024-11-10T19:58:51.694756 #12220]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:58:51.694968 #12220]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:58:51.696974 #12220]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:58:51.695894 #12220]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:58:51.696095 #12220]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T19:58:51.697716 #12220]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:58:51.842933 #12220]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T19:58:51.843065 #12220]  INFO -- : Created object Item: Olio
+I, [2024-11-10T19:58:51.843120 #12220]  INFO -- : Added item: Olio
+I, [2024-11-10T19:58:51.843170 #12220]  INFO -- : Parsed item: Olio
+I, [2024-11-10T19:58:51.842993 #12220]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T19:58:51.843228 #12220]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:58:51.843299 #12220]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:58:51.843339 #12220]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T19:58:51.856938 #12220]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T19:58:51.856994 #12220]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T19:58:51.857033 #12220]  INFO -- : Added item: Soumission
+I, [2024-11-10T19:58:51.857069 #12220]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T19:58:51.951413 #12220]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T19:58:51.951739 #12220]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:58:51.952026 #12220]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:58:51.952306 #12220]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T19:58:51.967373 #12220]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T19:58:51.967445 #12220]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T19:58:51.967529 #12220]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T19:58:51.967659 #12220]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T19:58:51.967575 #12220]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T19:58:51.967818 #12220]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T19:58:51.967862 #12220]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T19:58:51.967940 #12220]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T19:58:51.967901 #12220]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T19:58:51.967999 #12220]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:58:51.968045 #12220]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:58:51.968086 #12220]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T19:58:51.967756 #12220]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T19:58:51.968142 #12220]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:58:51.968190 #12220]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:58:51.968229 #12220]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T19:58:51.983558 #12220]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T19:58:51.983664 #12220]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:58:51.983723 #12220]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:58:51.983764 #12220]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T19:58:51.984393 #12220]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T19:58:51.984482 #12220]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:58:51.984556 #12220]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:58:51.984632 #12220]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T19:58:51.984680 #12220]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T19:58:51.984799 #12220]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T19:58:51.984930 #12220]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T19:58:51.984975 #12220]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T19:58:51.984892 #12220]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T19:58:51.985032 #12220]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:58:51.985075 #12220]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:58:51.985113 #12220]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T19:58:51.984853 #12220]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T19:58:51.985169 #12220]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T19:58:51.985216 #12220]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T19:58:51.985254 #12220]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T19:58:51.984729 #12220]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T19:58:51.985310 #12220]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:58:51.985353 #12220]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:58:51.985389 #12220]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T19:58:51.998738 #12220]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T19:58:51.998798 #12220]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T19:58:51.998838 #12220]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T19:58:51.998875 #12220]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T19:58:51.998910 #12220]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T19:58:51.998971 #12220]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T19:58:51.999012 #12220]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T19:58:51.999049 #12220]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T19:58:52.030803 #12220]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T19:58:52.031009 #12220]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:58:52.031200 #12220]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:58:52.031381 #12220]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T19:58:52.093997 #12220]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T19:58:52.094255 #12220]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:58:52.094342 #12220]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:58:52.094548 #12220]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T19:58:52.109550 #12220]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T19:58:52.109806 #12220]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:58:52.109996 #12220]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:58:52.110178 #12220]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T19:58:52.110400 #12220]  INFO -- : Parsing completed
+I, [2024-11-10T19:58:52.110462 #12220]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T19:58:52.111015 #12220]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T19:58:52.111134 #12220]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T19:58:52.111388 #12220]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T19:58:52.111438 #12220]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T19:58:52.115973 #12220]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T19:58:52.116025 #12220]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T20:00:50.487055 #17324]  INFO -- : Starting parse process
+I, [2024-11-10T20:00:51.499251 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T20:00:51.623769 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T20:00:51.625785 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T20:00:51.624594 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T20:00:51.624894 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T20:00:51.625157 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T20:00:51.625375 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T20:00:51.625999 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T20:00:51.624202 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T20:00:51.626238 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T20:00:51.626469 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T20:00:51.639214 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T20:00:51.640222 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T20:00:51.639744 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T20:00:51.640667 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T20:00:51.639451 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T20:00:51.640935 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T20:00:51.641167 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T20:00:51.653982 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T20:00:51.654540 #17324]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T20:00:51.796260 #17324]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T20:00:51.796339 #17324]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T20:00:51.796464 #17324]  INFO -- : found £51.77 
+I, [2024-11-10T20:00:51.796659 #17324]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:00:51.939583 #17324]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:00:51.940004 #17324]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T20:00:51.940206 #17324]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T20:00:51.940471 #17324]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T20:00:51.953969 #17324]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T20:00:51.954123 #17324]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T20:00:51.954220 #17324]  INFO -- : found £53.74 
+I, [2024-11-10T20:00:51.954519 #17324]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:00:52.314159 #17324]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T20:00:52.316981 #17324]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T20:00:52.319777 #17324]  INFO -- : found £51.33 
+I, [2024-11-10T20:00:52.332261 #17324]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T20:00:52.333039 #17324]  INFO -- : found Soumission 
+I, [2024-11-10T20:00:52.341585 #17324]  INFO -- : found £50.10 
+I, [2024-11-10T20:00:52.282938 #17324]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T20:00:52.345217 #17324]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T20:00:52.353514 #17324]  INFO -- : found £17.93 
+I, [2024-11-10T20:00:52.153881 #17324]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:00:52.353602 #17324]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T20:00:52.353648 #17324]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T20:00:52.353685 #17324]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T20:00:52.338468 #17324]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T20:00:52.353795 #17324]  INFO -- : found Olio 
+I, [2024-11-10T20:00:52.353837 #17324]  INFO -- : found £23.88 
+I, [2024-11-10T20:00:52.345093 #17324]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T20:00:52.354119 #17324]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T20:00:52.354195 #17324]  INFO -- : found £33.34 
+I, [2024-11-10T20:00:52.350858 #17324]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T20:00:52.354310 #17324]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T20:00:52.354388 #17324]  INFO -- : found £57.25 
+I, [2024-11-10T20:00:52.325654 #17324]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T20:00:52.354920 #17324]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T20:00:52.355471 #17324]  INFO -- : found £35.02 
+I, [2024-11-10T20:00:52.316925 #17324]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T20:00:52.362558 #17324]  INFO -- : found Sharp Objects 
+I, [2024-11-10T20:00:52.362600 #17324]  INFO -- : found £47.82 
+I, [2024-11-10T20:00:52.341532 #17324]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T20:00:52.362720 #17324]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T20:00:52.362761 #17324]  INFO -- : found £22.60 
+I, [2024-11-10T20:00:52.354161 #17324]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T20:00:52.363024 #17324]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:00:52.322186 #17324]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T20:00:52.363321 #17324]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T20:00:52.363369 #17324]  INFO -- : found £13.99 
+I, [2024-11-10T20:00:52.355431 #17324]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:00:52.357775 #17324]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T20:00:52.363617 #17324]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T20:00:52.363706 #17324]  INFO -- : found £20.66 
+I, [2024-11-10T20:00:52.362469 #17324]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T20:00:52.363781 #17324]  INFO -- : found The Black Maria 
+I, [2024-11-10T20:00:52.363830 #17324]  INFO -- : found £52.15 
+I, [2024-11-10T20:00:52.362638 #17324]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:00:52.335464 #17324]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T20:00:52.364107 #17324]  INFO -- : found Set Me Free 
+I, [2024-11-10T20:00:52.364201 #17324]  INFO -- : found £17.46 
+I, [2024-11-10T20:00:52.345262 #17324]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T20:00:52.347795 #17324]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T20:00:52.364459 #17324]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T20:00:52.364550 #17324]  INFO -- : found £54.23 
+I, [2024-11-10T20:00:52.363581 #17324]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:00:52.360345 #17324]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T20:00:52.364841 #17324]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T20:00:52.364890 #17324]  INFO -- : found £37.59 
+I, [2024-11-10T20:00:52.353727 #17324]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:00:52.363869 #17324]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:00:52.364066 #17324]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:00:52.319729 #17324]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T20:00:52.365867 #17324]  INFO -- : found The Requiem Red 
+I, [2024-11-10T20:00:52.365923 #17324]  INFO -- : found £22.65 
+I, [2024-11-10T20:00:52.354354 #17324]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:00:52.353472 #17324]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T20:00:52.366203 #17324]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T20:00:52.366290 #17324]  INFO -- : found £45.17 
+I, [2024-11-10T20:00:52.333001 #17324]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:00:52.365082 #17324]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:00:52.362797 #17324]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:00:52.364419 #17324]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:00:52.366161 #17324]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:00:52.364760 #17324]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:00:52.328329 #17324]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T20:00:52.367734 #17324]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T20:00:52.367803 #17324]  INFO -- : found £52.29 
+I, [2024-11-10T20:00:52.366515 #17324]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:00:52.368015 #17324]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:00:52.511844 #17324]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T20:00:52.511925 #17324]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T20:00:52.512040 #17324]  INFO -- : Added item: Soumission
+I, [2024-11-10T20:00:52.512086 #17324]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T20:00:52.511994 #17324]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T20:00:52.512151 #17324]  INFO -- : Created object Item: Olio
+I, [2024-11-10T20:00:52.512253 #17324]  INFO -- : Added item: Olio
+I, [2024-11-10T20:00:52.512294 #17324]  INFO -- : Parsed item: Olio
+I, [2024-11-10T20:00:52.636539 #17324]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:00:52.636654 #17324]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:00:52.636706 #17324]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:00:52.636793 #17324]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:00:52.636745 #17324]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:00:52.636891 #17324]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:00:52.636934 #17324]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:00:52.636976 #17324]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:00:52.636847 #17324]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:00:52.637035 #17324]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:00:52.637092 #17324]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:00:52.637131 #17324]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:00:52.652115 #17324]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:00:52.652249 #17324]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:00:52.652357 #17324]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:00:52.652443 #17324]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:00:52.652561 #17324]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:00:52.652667 #17324]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:00:52.652749 #17324]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:00:52.652796 #17324]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:00:52.652707 #17324]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:00:52.652856 #17324]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T20:00:52.652900 #17324]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T20:00:52.652939 #17324]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T20:00:52.652505 #17324]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:00:52.652996 #17324]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T20:00:52.653074 #17324]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T20:00:52.653127 #17324]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T20:00:52.652619 #17324]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:00:52.653191 #17324]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:00:52.653247 #17324]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:00:52.653291 #17324]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:00:52.652169 #17324]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:00:52.653353 #17324]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T20:00:52.653422 #17324]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T20:00:52.653465 #17324]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T20:00:52.665963 #17324]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:00:52.666018 #17324]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:00:52.666059 #17324]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:00:52.666133 #17324]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:00:52.666094 #17324]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:00:52.666189 #17324]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T20:00:52.666234 #17324]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T20:00:52.666279 #17324]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T20:00:52.777826 #17324]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:00:52.778088 #17324]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:00:52.778231 #17324]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:00:52.778353 #17324]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:00:52.778459 #17324]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:00:52.778514 #17324]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:00:52.778722 #17324]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:00:52.778761 #17324]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:00:52.778669 #17324]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:00:52.778814 #17324]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:00:52.778875 #17324]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:00:52.778947 #17324]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:00:52.791630 #17324]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:00:52.791948 #17324]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:00:52.792133 #17324]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:00:52.792321 #17324]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:00:52.807360 #17324]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:00:52.807591 #17324]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T20:00:52.807783 #17324]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T20:00:52.807976 #17324]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T20:00:52.808209 #17324]  INFO -- : Parsing completed
+I, [2024-11-10T20:00:52.808271 #17324]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T20:00:52.808836 #17324]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T20:00:52.808956 #17324]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T20:00:52.809184 #17324]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T20:00:52.809328 #17324]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T20:00:52.813318 #17324]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T20:00:52.813370 #17324]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T20:00:54.362871 #17324]  INFO -- : Executed method: run_save_to_sqlite
+I, [2024-11-10T20:00:54.363838 #17324]  INFO -- : Тестове повідомлення: перевірка логування
+I, [2024-11-10T20:18:00.600141 #7388]  INFO -- : Starting parse process
+I, [2024-11-10T20:18:01.718372 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T20:18:01.842084 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T20:18:01.843420 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T20:18:01.844252 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T20:18:01.843633 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T20:18:01.842665 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T20:18:01.844472 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T20:18:01.844860 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T20:18:01.842858 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T20:18:01.856939 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T20:18:01.858584 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T20:18:01.859700 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T20:18:01.858169 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T20:18:01.858752 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T20:18:01.858942 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T20:18:01.857369 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T20:18:01.859185 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T20:18:01.859832 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T20:18:01.859954 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T20:18:01.857734 #7388]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T20:18:02.013572 #7388]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T20:18:02.013657 #7388]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T20:18:02.013696 #7388]  INFO -- : found £51.77 
+I, [2024-11-10T20:18:02.013906 #7388]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:18:02.156837 #7388]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:18:02.159554 #7388]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:02.159723 #7388]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:02.159837 #7388]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:02.171130 #7388]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T20:18:02.171283 #7388]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T20:18:02.171369 #7388]  INFO -- : found £53.74 
+I, [2024-11-10T20:18:02.171790 #7388]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:18:02.187265 #7388]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T20:18:02.187599 #7388]  INFO -- : found Soumission 
+I, [2024-11-10T20:18:02.187802 #7388]  INFO -- : found £50.10 
+I, [2024-11-10T20:18:02.188167 #7388]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T20:18:02.309820 #7388]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:18:02.442566 #7388]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T20:18:02.442952 #7388]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T20:18:02.443188 #7388]  INFO -- : found £45.17 
+I, [2024-11-10T20:18:02.380864 #7388]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T20:18:02.444043 #7388]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T20:18:02.444354 #7388]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T20:18:02.444227 #7388]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:18:02.445650 #7388]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T20:18:02.445720 #7388]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T20:18:02.445761 #7388]  INFO -- : Added item: Soumission
+I, [2024-11-10T20:18:02.445826 #7388]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T20:18:02.454008 #7388]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T20:18:02.454204 #7388]  INFO -- : found The Requiem Red 
+I, [2024-11-10T20:18:02.454247 #7388]  INFO -- : found £22.65 
+I, [2024-11-10T20:18:02.454484 #7388]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:18:02.486018 #7388]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T20:18:02.487051 #7388]  INFO -- : found Sharp Objects 
+I, [2024-11-10T20:18:02.492819 #7388]  INFO -- : found £47.82 
+I, [2024-11-10T20:18:02.470852 #7388]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T20:18:02.492916 #7388]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T20:18:02.492972 #7388]  INFO -- : found £22.60 
+I, [2024-11-10T20:18:02.492752 #7388]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T20:18:02.493112 #7388]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T20:18:02.493195 #7388]  INFO -- : found £52.29 
+I, [2024-11-10T20:18:02.493159 #7388]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:18:02.493068 #7388]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:18:02.494436 #7388]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:18:02.501947 #7388]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T20:18:02.502828 #7388]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T20:18:02.513010 #7388]  INFO -- : found £20.66 
+I, [2024-11-10T20:18:02.507073 #7388]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T20:18:02.517327 #7388]  INFO -- : found Set Me Free 
+I, [2024-11-10T20:18:02.519591 #7388]  INFO -- : found £17.46 
+I, [2024-11-10T20:18:02.517372 #7388]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:18:02.519549 #7388]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T20:18:02.520566 #7388]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T20:18:02.520684 #7388]  INFO -- : found £54.23 
+I, [2024-11-10T20:18:02.520520 #7388]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:18:02.517269 #7388]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T20:18:02.521064 #7388]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T20:18:02.521122 #7388]  INFO -- : found £51.33 
+I, [2024-11-10T20:18:02.512943 #7388]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T20:18:02.521207 #7388]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T20:18:02.521264 #7388]  INFO -- : found £37.59 
+I, [2024-11-10T20:18:02.520968 #7388]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:18:02.521316 #7388]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:18:02.521950 #7388]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:18:02.531228 #7388]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T20:18:02.531308 #7388]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T20:18:02.531345 #7388]  INFO -- : found £35.02 
+I, [2024-11-10T20:18:02.531517 #7388]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:18:02.546884 #7388]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T20:18:02.547120 #7388]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T20:18:02.551904 #7388]  INFO -- : found £17.93 
+I, [2024-11-10T20:18:02.551865 #7388]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T20:18:02.555994 #7388]  INFO -- : found The Black Maria 
+I, [2024-11-10T20:18:02.556031 #7388]  INFO -- : found £52.15 
+I, [2024-11-10T20:18:02.549461 #7388]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T20:18:02.556094 #7388]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T20:18:02.556167 #7388]  INFO -- : found £33.34 
+I, [2024-11-10T20:18:02.556130 #7388]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:18:02.553952 #7388]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T20:18:02.556515 #7388]  INFO -- : found Olio 
+I, [2024-11-10T20:18:02.556556 #7388]  INFO -- : found £23.88 
+I, [2024-11-10T20:18:02.556428 #7388]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:18:02.556200 #7388]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:18:02.555917 #7388]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T20:18:02.557043 #7388]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T20:18:02.557093 #7388]  INFO -- : found £13.99 
+I, [2024-11-10T20:18:02.556763 #7388]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T20:18:02.557320 #7388]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:18:02.561796 #7388]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T20:18:02.561852 #7388]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T20:18:02.561891 #7388]  INFO -- : found £57.25 
+I, [2024-11-10T20:18:02.562019 #7388]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:18:02.669155 #7388]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:18:02.669380 #7388]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:02.669580 #7388]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:02.669629 #7388]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:02.700044 #7388]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T20:18:02.700113 #7388]  INFO -- : Created object Item: Olio
+I, [2024-11-10T20:18:02.700153 #7388]  INFO -- : Added item: Olio
+I, [2024-11-10T20:18:02.700189 #7388]  INFO -- : Parsed item: Olio
+I, [2024-11-10T20:18:02.715666 #7388]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:18:02.715715 #7388]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:02.715753 #7388]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:02.715788 #7388]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:02.762825 #7388]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:18:02.762954 #7388]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:02.763005 #7388]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:02.763050 #7388]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:02.777874 #7388]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:18:02.777964 #7388]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T20:18:02.778089 #7388]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T20:18:02.778220 #7388]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T20:18:02.778340 #7388]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:18:02.778506 #7388]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:02.778579 #7388]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:02.778614 #7388]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:02.793782 #7388]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:18:02.793842 #7388]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:02.793884 #7388]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:02.793926 #7388]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:02.809744 #7388]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:18:02.809965 #7388]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:02.810066 #7388]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:02.810225 #7388]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:02.810347 #7388]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:18:02.810575 #7388]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:02.810617 #7388]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:02.810657 #7388]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:02.810462 #7388]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:18:02.810713 #7388]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T20:18:02.810759 #7388]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T20:18:02.810803 #7388]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T20:18:02.839449 #7388]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:18:02.839560 #7388]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T20:18:02.839608 #7388]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T20:18:02.839696 #7388]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T20:18:02.839652 #7388]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:18:02.839758 #7388]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:02.839800 #7388]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:02.839838 #7388]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:02.839510 #7388]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:18:02.839896 #7388]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:02.839936 #7388]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:02.839999 #7388]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:02.869729 #7388]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:18:02.869938 #7388]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T20:18:02.870120 #7388]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T20:18:02.870303 #7388]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T20:18:02.916403 #7388]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:18:02.916620 #7388]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:02.916806 #7388]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:02.916985 #7388]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:02.964258 #7388]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:18:02.964460 #7388]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:02.964654 #7388]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:02.964840 #7388]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:02.980247 #7388]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:18:02.980444 #7388]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:02.980635 #7388]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:02.980824 #7388]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:02.980920 #7388]  INFO -- : Parsing completed
+I, [2024-11-10T20:18:02.980982 #7388]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T20:18:02.981421 #7388]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T20:18:02.981557 #7388]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T20:18:02.981788 #7388]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T20:18:02.981915 #7388]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T20:18:02.986057 #7388]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T20:18:02.986163 #7388]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T20:18:04.680210 #7388]  INFO -- : Executed method: run_save_to_sqlite
+I, [2024-11-10T20:18:30.162147 #14088]  INFO -- : Starting parse process
+I, [2024-11-10T20:18:31.374845 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html 
+I, [2024-11-10T20:18:31.530577 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/soumission_998/index.html 
+I, [2024-11-10T20:18:31.531470 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html 
+I, [2024-11-10T20:18:31.532489 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html 
+I, [2024-11-10T20:18:31.532022 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html 
+I, [2024-11-10T20:18:31.546402 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html 
+I, [2024-11-10T20:18:31.548179 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html 
+I, [2024-11-10T20:18:31.550157 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html 
+I, [2024-11-10T20:18:31.548456 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html 
+I, [2024-11-10T20:18:31.546821 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html 
+I, [2024-11-10T20:18:31.549174 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html 
+I, [2024-11-10T20:18:31.549409 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/olio_984/index.html 
+I, [2024-11-10T20:18:31.549557 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/set-me-free_988/index.html 
+I, [2024-11-10T20:18:31.549739 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/sharp-objects_997/index.html 
+I, [2024-11-10T20:18:31.550330 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html 
+I, [2024-11-10T20:18:31.550532 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html 
+I, [2024-11-10T20:18:31.550763 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html 
+I, [2024-11-10T20:18:31.547181 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/the-black-maria_991/index.html 
+I, [2024-11-10T20:18:31.576486 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/the-requiem-red_995/index.html 
+I, [2024-11-10T20:18:31.578040 #14088]  INFO -- : product_link http://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html 
+I, [2024-11-10T20:18:31.750248 #14088]  INFO -- : found http://books.toscrape.com/media/cache/fe/72/fe72f0532301ec28892ae79a629a293c.jpg 
+I, [2024-11-10T20:18:31.750477 #14088]  INFO -- : found A Light in the Attic 
+I, [2024-11-10T20:18:31.750673 #14088]  INFO -- : found £51.77 
+I, [2024-11-10T20:18:31.751024 #14088]  INFO -- : Saving image at: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:18:31.845464 #14088]  INFO -- : found http://books.toscrape.com/media/cache/08/e9/08e94f3731d7d6b760dfbfbc02ca5c62.jpg 
+I, [2024-11-10T20:18:31.846026 #14088]  INFO -- : found Tipping the Velvet 
+I, [2024-11-10T20:18:31.846183 #14088]  INFO -- : found £53.74 
+I, [2024-11-10T20:18:31.846420 #14088]  INFO -- : Saving image at: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:18:31.908565 #14088]  INFO -- : Image saved: ../media/books/A_Light_in_the_Attic.jpg
+I, [2024-11-10T20:18:31.909854 #14088]  INFO -- : Created object Item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:31.909940 #14088]  INFO -- : Added item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:31.910072 #14088]  INFO -- : Parsed item: A_Light_in_the_Attic
+I, [2024-11-10T20:18:31.993032 #14088]  INFO -- : Image saved: ../media/books/Tipping_the_Velvet.jpg
+I, [2024-11-10T20:18:32.069349 #14088]  INFO -- : Created object Item: Tipping_the_Velvet
+I, [2024-11-10T20:18:32.171649 #14088]  INFO -- : found http://books.toscrape.com/media/cache/b8/e9/b8e91bd2fc74c3954118999238abb4b8.jpg 
+I, [2024-11-10T20:18:32.172521 #14088]  INFO -- : found Set Me Free 
+I, [2024-11-10T20:18:32.185689 #14088]  INFO -- : found £17.46 
+I, [2024-11-10T20:18:32.177208 #14088]  INFO -- : found http://books.toscrape.com/media/cache/c0/59/c05972805aa7201171b8fc71a5b00292.jpg 
+I, [2024-11-10T20:18:32.200265 #14088]  INFO -- : found Sharp Objects 
+I, [2024-11-10T20:18:32.200929 #14088]  INFO -- : found £47.82 
+I, [2024-11-10T20:18:32.201271 #14088]  INFO -- : Saving image at: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:18:32.196371 #14088]  INFO -- : found http://books.toscrape.com/media/cache/ce/5f/ce5f052c65cc963cf4422be096e915c9.jpg 
+I, [2024-11-10T20:18:32.203696 #14088]  INFO -- : found Sapiens: A Brief History of Humankind 
+I, [2024-11-10T20:18:32.203765 #14088]  INFO -- : found £54.23 
+I, [2024-11-10T20:18:32.185587 #14088]  INFO -- : found http://books.toscrape.com/media/cache/97/27/97275841c81e66d53bf9313cba06f23e.jpg 
+I, [2024-11-10T20:18:32.203913 #14088]  INFO -- : found Scott Pilgrim's Precious Little Life (Scott Pilgrim #1) 
+I, [2024-11-10T20:18:32.203975 #14088]  INFO -- : found £52.29 
+I, [2024-11-10T20:18:32.087460 #14088]  INFO -- : Added item: Tipping_the_Velvet
+I, [2024-11-10T20:18:32.204103 #14088]  INFO -- : Parsed item: Tipping_the_Velvet
+I, [2024-11-10T20:18:32.200882 #14088]  INFO -- : Saving image at: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:18:32.190700 #14088]  INFO -- : found http://books.toscrape.com/media/cache/ad/96/ad96e9c9f1664cbcb0e9627b007fb6f9.jpg 
+I, [2024-11-10T20:18:32.204468 #14088]  INFO -- : found Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 
+I, [2024-11-10T20:18:32.204590 #14088]  INFO -- : found £57.25 
+I, [2024-11-10T20:18:32.200203 #14088]  INFO -- : found http://books.toscrape.com/media/cache/6d/41/6d418a73cc7d4ecfd75ca11d854041db.jpg 
+I, [2024-11-10T20:18:32.204683 #14088]  INFO -- : found It's Only the Himalayas 
+I, [2024-11-10T20:18:32.205848 #14088]  INFO -- : found £45.17 
+I, [2024-11-10T20:18:32.181237 #14088]  INFO -- : found http://books.toscrape.com/media/cache/ee/cf/eecfe998905e455df12064dba399c075.jpg 
+I, [2024-11-10T20:18:32.205940 #14088]  INFO -- : found Soumission 
+I, [2024-11-10T20:18:32.205985 #14088]  INFO -- : found £50.10 
+I, [2024-11-10T20:18:32.204019 #14088]  INFO -- : Saving image at: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:18:32.204414 #14088]  INFO -- : Saving image at: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:18:32.205799 #14088]  INFO -- : Saving image at: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:18:32.206025 #14088]  INFO -- : Saving image at: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:18:32.207010 #14088]  INFO -- : Saving image at: ../media/books/Soumission.jpg
+I, [2024-11-10T20:18:32.220740 #14088]  INFO -- : found http://books.toscrape.com/media/cache/81/7f/817f5089c0e6e62738dce2931e7323d3.jpg 
+I, [2024-11-10T20:18:32.220945 #14088]  INFO -- : found Rip it Up and Start Again 
+I, [2024-11-10T20:18:32.224568 #14088]  INFO -- : found £35.02 
+I, [2024-11-10T20:18:32.224514 #14088]  INFO -- : found http://books.toscrape.com/media/cache/91/a4/91a46253e165d144ef5938f2d456b88f.jpg 
+I, [2024-11-10T20:18:32.224654 #14088]  INFO -- : found Libertarianism for Beginners 
+I, [2024-11-10T20:18:32.224705 #14088]  INFO -- : found £51.33 
+I, [2024-11-10T20:18:32.224805 #14088]  INFO -- : Saving image at: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:18:32.224853 #14088]  INFO -- : Saving image at: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:18:32.234392 #14088]  INFO -- : found http://books.toscrape.com/media/cache/d1/7a/d17a3e313e52e1be5651719e4fba1d16.jpg 
+I, [2024-11-10T20:18:32.234644 #14088]  INFO -- : found The Black Maria 
+I, [2024-11-10T20:18:32.239271 #14088]  INFO -- : found £52.15 
+I, [2024-11-10T20:18:32.239227 #14088]  INFO -- : found http://books.toscrape.com/media/cache/4d/7a/4d7a79a8be80a529b277ed5c4d8ba482.jpg 
+I, [2024-11-10T20:18:32.241407 #14088]  INFO -- : found Shakespeare's Sonnets 
+I, [2024-11-10T20:18:32.241446 #14088]  INFO -- : found £20.66 
+I, [2024-11-10T20:18:32.241336 #14088]  INFO -- : found http://books.toscrape.com/media/cache/a0/7e/a07ed8f1c23f7b4baf7102722680bd30.jpg 
+I, [2024-11-10T20:18:32.241519 #14088]  INFO -- : found Starving Hearts (Triangular Trade Trilogy, #1) 
+I, [2024-11-10T20:18:32.241605 #14088]  INFO -- : found £13.99 
+I, [2024-11-10T20:18:32.241566 #14088]  INFO -- : Saving image at: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:18:32.241640 #14088]  INFO -- : Saving image at: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:18:32.237167 #14088]  INFO -- : found http://books.toscrape.com/media/cache/e8/1f/e81f850db9b9622c65619c9f15748de7.jpg 
+I, [2024-11-10T20:18:32.242163 #14088]  INFO -- : found Mesaerion: The Best Science Fiction Stories 1800-1849 
+I, [2024-11-10T20:18:32.242213 #14088]  INFO -- : found £37.59 
+I, [2024-11-10T20:18:32.241875 #14088]  INFO -- : Saving image at: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:18:32.242452 #14088]  INFO -- : Saving image at: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:18:32.248976 #14088]  INFO -- : found http://books.toscrape.com/media/cache/b1/0e/b10eabab1e1c811a6d47969904fd5755.jpg 
+I, [2024-11-10T20:18:32.249189 #14088]  INFO -- : found Olio 
+I, [2024-11-10T20:18:32.253884 #14088]  INFO -- : found £23.88 
+I, [2024-11-10T20:18:32.253840 #14088]  INFO -- : found http://books.toscrape.com/media/cache/97/36/9736132a43b8e6e3989932218ef309ed.jpg 
+I, [2024-11-10T20:18:32.255786 #14088]  INFO -- : found The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull 
+I, [2024-11-10T20:18:32.255826 #14088]  INFO -- : found £17.93 
+I, [2024-11-10T20:18:32.255702 #14088]  INFO -- : found http://books.toscrape.com/media/cache/6b/07/6b07b77236b7c80f42bd90bf325e69f6.jpg 
+I, [2024-11-10T20:18:32.255929 #14088]  INFO -- : found The Requiem Red 
+I, [2024-11-10T20:18:32.255966 #14088]  INFO -- : found £22.65 
+I, [2024-11-10T20:18:32.251603 #14088]  INFO -- : found http://books.toscrape.com/media/cache/d1/2d/d12d26739b5369a6b5b3024e4d08f907.jpg 
+I, [2024-11-10T20:18:32.256060 #14088]  INFO -- : found The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics 
+I, [2024-11-10T20:18:32.256101 #14088]  INFO -- : found £22.60 
+I, [2024-11-10T20:18:32.255863 #14088]  INFO -- : Saving image at: ../media/books/Olio.jpg
+I, [2024-11-10T20:18:32.256001 #14088]  INFO -- : Saving image at: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:18:32.256138 #14088]  INFO -- : Saving image at: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:18:32.256352 #14088]  INFO -- : Saving image at: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:18:32.265041 #14088]  INFO -- : found http://books.toscrape.com/media/cache/e1/1b/e11bea016d0ae1d7e2dd46fb3cb870b7.jpg 
+I, [2024-11-10T20:18:32.265100 #14088]  INFO -- : found The Dirty Little Secrets of Getting Your Dream Job 
+I, [2024-11-10T20:18:32.265136 #14088]  INFO -- : found £33.34 
+I, [2024-11-10T20:18:32.265263 #14088]  INFO -- : Saving image at: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:18:32.357901 #14088]  INFO -- : Image saved: ../media/books/Soumission.jpg
+I, [2024-11-10T20:18:32.358061 #14088]  INFO -- : Created object Item: Soumission
+I, [2024-11-10T20:18:32.358135 #14088]  INFO -- : Added item: Soumission
+I, [2024-11-10T20:18:32.358208 #14088]  INFO -- : Parsed item: Soumission
+I, [2024-11-10T20:18:32.403790 #14088]  INFO -- : Image saved: ../media/books/Olio.jpg
+I, [2024-11-10T20:18:32.403858 #14088]  INFO -- : Created object Item: Olio
+I, [2024-11-10T20:18:32.403897 #14088]  INFO -- : Added item: Olio
+I, [2024-11-10T20:18:32.403953 #14088]  INFO -- : Parsed item: Olio
+I, [2024-11-10T20:18:32.481949 #14088]  INFO -- : Image saved: ../media/books/Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_.jpg
+I, [2024-11-10T20:18:32.482059 #14088]  INFO -- : Created object Item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:32.482109 #14088]  INFO -- : Added item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:32.482187 #14088]  INFO -- : Parsed item: Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_
+I, [2024-11-10T20:18:32.482148 #14088]  INFO -- : Image saved: ../media/books/Sharp_Objects.jpg
+I, [2024-11-10T20:18:32.482247 #14088]  INFO -- : Created object Item: Sharp_Objects
+I, [2024-11-10T20:18:32.482313 #14088]  INFO -- : Added item: Sharp_Objects
+I, [2024-11-10T20:18:32.482360 #14088]  INFO -- : Parsed item: Sharp_Objects
+I, [2024-11-10T20:18:32.482009 #14088]  INFO -- : Image saved: ../media/books/Set_Me_Free.jpg
+I, [2024-11-10T20:18:32.482417 #14088]  INFO -- : Created object Item: Set_Me_Free
+I, [2024-11-10T20:18:32.482456 #14088]  INFO -- : Added item: Set_Me_Free
+I, [2024-11-10T20:18:32.482496 #14088]  INFO -- : Parsed item: Set_Me_Free
+I, [2024-11-10T20:18:32.497494 #14088]  INFO -- : Image saved: ../media/books/Sapiens__A_Brief_History_of_Humankind.jpg
+I, [2024-11-10T20:18:32.497559 #14088]  INFO -- : Created object Item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:32.497599 #14088]  INFO -- : Added item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:32.497635 #14088]  INFO -- : Parsed item: Sapiens__A_Brief_History_of_Humankind
+I, [2024-11-10T20:18:32.497718 #14088]  INFO -- : Image saved: ../media/books/Rip_it_Up_and_Start_Again.jpg
+I, [2024-11-10T20:18:32.497810 #14088]  INFO -- : Created object Item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:32.497857 #14088]  INFO -- : Added item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:32.497901 #14088]  INFO -- : Parsed item: Rip_it_Up_and_Start_Again
+I, [2024-11-10T20:18:32.513993 #14088]  INFO -- : Image saved: ../media/books/Libertarianism_for_Beginners.jpg
+I, [2024-11-10T20:18:32.514079 #14088]  INFO -- : Created object Item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:32.514142 #14088]  INFO -- : Added item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:32.514204 #14088]  INFO -- : Parsed item: Libertarianism_for_Beginners
+I, [2024-11-10T20:18:32.514314 #14088]  INFO -- : Image saved: ../media/books/Mesaerion__The_Best_Science_Fiction_Stories_1800-1849.jpg
+I, [2024-11-10T20:18:32.514378 #14088]  INFO -- : Created object Item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:32.514504 #14088]  INFO -- : Added item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:32.514569 #14088]  INFO -- : Parsed item: Mesaerion__The_Best_Science_Fiction_Stories_1800-1849
+I, [2024-11-10T20:18:32.514448 #14088]  INFO -- : Image saved: ../media/books/The_Black_Maria.jpg
+I, [2024-11-10T20:18:32.514678 #14088]  INFO -- : Created object Item: The_Black_Maria
+I, [2024-11-10T20:18:32.514725 #14088]  INFO -- : Added item: The_Black_Maria
+I, [2024-11-10T20:18:32.514767 #14088]  INFO -- : Parsed item: The_Black_Maria
+I, [2024-11-10T20:18:32.514617 #14088]  INFO -- : Image saved: ../media/books/Shakespeare_s_Sonnets.jpg
+I, [2024-11-10T20:18:32.514821 #14088]  INFO -- : Created object Item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:32.514866 #14088]  INFO -- : Added item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:32.514908 #14088]  INFO -- : Parsed item: Shakespeare_s_Sonnets
+I, [2024-11-10T20:18:32.529598 #14088]  INFO -- : Image saved: ../media/books/The_Requiem_Red.jpg
+I, [2024-11-10T20:18:32.529649 #14088]  INFO -- : Created object Item: The_Requiem_Red
+I, [2024-11-10T20:18:32.529688 #14088]  INFO -- : Added item: The_Requiem_Red
+I, [2024-11-10T20:18:32.529738 #14088]  INFO -- : Parsed item: The_Requiem_Red
+I, [2024-11-10T20:18:32.545380 #14088]  INFO -- : Image saved: ../media/books/The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull.jpg
+I, [2024-11-10T20:18:32.545451 #14088]  INFO -- : Created object Item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:32.545582 #14088]  INFO -- : Added item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:32.545640 #14088]  INFO -- : Parsed item: The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull
+I, [2024-11-10T20:18:32.545501 #14088]  INFO -- : Image saved: ../media/books/The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics.jpg
+I, [2024-11-10T20:18:32.545867 #14088]  INFO -- : Created object Item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:32.545912 #14088]  INFO -- : Added item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:32.545967 #14088]  INFO -- : Parsed item: The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics
+I, [2024-11-10T20:18:32.545764 #14088]  INFO -- : Image saved: ../media/books/The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job.jpg
+I, [2024-11-10T20:18:32.546041 #14088]  INFO -- : Created object Item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:32.546084 #14088]  INFO -- : Added item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:32.546121 #14088]  INFO -- : Parsed item: The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job
+I, [2024-11-10T20:18:32.608594 #14088]  INFO -- : Image saved: ../media/books/Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991.jpg
+I, [2024-11-10T20:18:32.608809 #14088]  INFO -- : Created object Item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:32.609073 #14088]  INFO -- : Added item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:32.609344 #14088]  INFO -- : Parsed item: Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991
+I, [2024-11-10T20:18:32.609495 #14088]  INFO -- : Image saved: ../media/books/It_s_Only_the_Himalayas.jpg
+I, [2024-11-10T20:18:32.609554 #14088]  INFO -- : Created object Item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:32.609601 #14088]  INFO -- : Added item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:32.609705 #14088]  INFO -- : Parsed item: It_s_Only_the_Himalayas
+I, [2024-11-10T20:18:32.655049 #14088]  INFO -- : Image saved: ../media/books/Starving_Hearts__Triangular_Trade_Trilogy___1_.jpg
+I, [2024-11-10T20:18:32.655258 #14088]  INFO -- : Created object Item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:32.655460 #14088]  INFO -- : Added item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:32.655650 #14088]  INFO -- : Parsed item: Starving_Hearts__Triangular_Trade_Trilogy___1_
+I, [2024-11-10T20:18:32.655908 #14088]  INFO -- : Parsing completed
+I, [2024-11-10T20:18:32.656032 #14088]  INFO -- : Executed method: run_website_parser
+I, [2024-11-10T20:18:32.656446 #14088]  INFO -- : Saved items to CSV ../output/items.csv
+I, [2024-11-10T20:18:32.656568 #14088]  INFO -- : Executed method: run_save_to_csv
+I, [2024-11-10T20:18:32.656800 #14088]  INFO -- : Saved items to JSON ../output/items.txt
+I, [2024-11-10T20:18:32.656915 #14088]  INFO -- : Executed method: run_save_to_file
+I, [2024-11-10T20:18:32.660944 #14088]  INFO -- : Saved items to YAML files in ../output/yaml_directory
+I, [2024-11-10T20:18:32.660997 #14088]  INFO -- : Executed method: run_save_to_yaml
+I, [2024-11-10T20:18:33.016872 #14088]  INFO -- : Executed method: run_save_to_mongodb
+I, [2024-11-10T20:18:33.046519 #14088]  INFO -- : Тестове повідомлення: перевірка логування

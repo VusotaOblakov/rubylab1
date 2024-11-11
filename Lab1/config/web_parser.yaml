@@ -1,0 +1,8 @@
+web_scraping:
+  start_page: "http://books.toscrape.com/"
+  product_name_selector: ".product_main h1"
+  product_link_selector: ".product_pod h3 a"
+  product_price_selector: ".product_main .price_color"
+  product_image_selector: "#product_gallery .thumbnail img"
+  product_description_selector: "#product_description ~ p"
+  default_category: "books"
