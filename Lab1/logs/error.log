@@ -1,8 +1,47 @@
-E, [2024-11-09T15:10:42.744842 #19404] ERROR -- : Тестове повідомлення: перевірка логування помилок
-E, [2024-11-09T15:10:56.555808 #7760] ERROR -- : Тестове повідомлення: перевірка логування помилок
-E, [2024-11-10T19:52:59.235839 #11824] ERROR -- : Failed to archive results: uninitialized constant Zip::File
-E, [2024-11-10T19:52:59.251955 #11824] ERROR -- : Тестове повідомлення: перевірка логування помилок
-E, [2024-11-10T19:53:49.941185 #15304] ERROR -- : Failed to archive results: uninitialized constant Zip::File
-E, [2024-11-10T19:53:49.941649 #15304] ERROR -- : Тестове повідомлення: перевірка логування помилок
-E, [2024-11-10T20:00:54.363935 #17324] ERROR -- : Тестове повідомлення: перевірка логування помилок
-E, [2024-11-10T20:18:33.046596 #14088] ERROR -- : Тестове повідомлення: перевірка логування помилок
+# Logfile created on 2024-11-11 15:55:33 +0200 by logger.rb/v1.6.0
+E, [2024-11-11T15:55:36.547653 #4140] ERROR -- : Тестове повідомлення: перевірка логування помилок
+E, [2024-11-11T15:56:06.786086 #11228] ERROR -- : Тестове повідомлення: перевірка логування помилок
+E, [2024-11-12T10:45:25.813684 #12016] ERROR -- : Тестове повідомлення: перевірка логування помилок
+E, [2024-11-12T10:48:07.182362 #8628] ERROR -- : Тестове повідомлення: перевірка логування помилок
+E, [2024-11-12T10:49:07.280233 #3240] ERROR -- : Failed to save image for A_Light_in_the_Attic: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.440540 #3240] ERROR -- : Failed to save image for Tipping_the_Velvet: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.810291 #3240] ERROR -- : Failed to save image for Set_Me_Free: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.810602 #3240] ERROR -- : Failed to save image for The_Requiem_Red: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.813615 #3240] ERROR -- : Failed to save image for Olio: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.832864 #3240] ERROR -- : Failed to save image for Sapiens__A_Brief_History_of_Humankind: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.849482 #3240] ERROR -- : Failed to save image for Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.849902 #3240] ERROR -- : Failed to save image for Soumission: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.850713 #3240] ERROR -- : Failed to save image for It_s_Only_the_Himalayas: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.851024 #3240] ERROR -- : Failed to save image for The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.851314 #3240] ERROR -- : Failed to save image for The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.851691 #3240] ERROR -- : Failed to save image for The_Black_Maria: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.852323 #3240] ERROR -- : Failed to save image for Mesaerion__The_Best_Science_Fiction_Stories_1800-1849: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.852715 #3240] ERROR -- : Failed to save image for Libertarianism_for_Beginners: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.853045 #3240] ERROR -- : Failed to save image for Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.855525 #3240] ERROR -- : Failed to save image for The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.855809 #3240] ERROR -- : Failed to save image for Rip_it_Up_and_Start_Again: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.856096 #3240] ERROR -- : Failed to save image for Shakespeare_s_Sonnets: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.856368 #3240] ERROR -- : Failed to save image for Starving_Hearts__Triangular_Trade_Trilogy___1_: no implicit conversion of nil into String
+E, [2024-11-12T10:49:07.856860 #3240] ERROR -- : Failed to save image for Sharp_Objects: no implicit conversion of nil into String
+E, [2024-11-12T10:49:09.416281 #3240] ERROR -- : Тестове повідомлення: перевірка логування помилок
+E, [2024-11-12T10:49:22.642401 #17204] ERROR -- : Failed to save image for A_Light_in_the_Attic: no implicit conversion of nil into String
+E, [2024-11-12T10:49:22.868543 #17204] ERROR -- : Failed to save image for Soumission: no implicit conversion of nil into String
+E, [2024-11-12T10:49:22.869153 #17204] ERROR -- : Failed to save image for Tipping_the_Velvet: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.137331 #17204] ERROR -- : Failed to save image for Scott_Pilgrim_s_Precious_Little_Life__Scott_Pilgrim__1_: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.149522 #17204] ERROR -- : Failed to save image for The_Boys_in_the_Boat__Nine_Americans_and_Their_Epic_Quest_for_Gold_at_the_1936_Berlin_Olympics: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.156374 #17204] ERROR -- : Failed to save image for It_s_Only_the_Himalayas: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.168375 #17204] ERROR -- : Failed to save image for Olio: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.173731 #17204] ERROR -- : Failed to save image for Sharp_Objects: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.186863 #17204] ERROR -- : Failed to save image for The_Black_Maria: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.224905 #17204] ERROR -- : Failed to save image for Libertarianism_for_Beginners: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.225299 #17204] ERROR -- : Failed to save image for Starving_Hearts__Triangular_Trade_Trilogy___1_: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.225679 #17204] ERROR -- : Failed to save image for Sapiens__A_Brief_History_of_Humankind: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.226032 #17204] ERROR -- : Failed to save image for The_Requiem_Red: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.226390 #17204] ERROR -- : Failed to save image for Our_Band_Could_Be_Your_Life__Scenes_from_the_American_Indie_Underground__1981-1991: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.227081 #17204] ERROR -- : Failed to save image for The_Dirty_Little_Secrets_of_Getting_Your_Dream_Job: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.227616 #17204] ERROR -- : Failed to save image for Shakespeare_s_Sonnets: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.228240 #17204] ERROR -- : Failed to save image for Rip_it_Up_and_Start_Again: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.228932 #17204] ERROR -- : Failed to save image for Mesaerion__The_Best_Science_Fiction_Stories_1800-1849: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.229503 #17204] ERROR -- : Failed to save image for Set_Me_Free: no implicit conversion of nil into String
+E, [2024-11-12T10:49:23.230413 #17204] ERROR -- : Failed to save image for The_Coming_Woman__A_Novel_Based_on_the_Life_of_the_Infamous_Feminist__Victoria_Woodhull: no implicit conversion of nil into String
+E, [2024-11-12T10:49:24.848756 #17204] ERROR -- : Тестове повідомлення: перевірка логування помилок

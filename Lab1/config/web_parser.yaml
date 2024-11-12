@@ -5,4 +5,5 @@ web_scraping:
   product_price_selector: ".product_main .price_color"
   product_image_selector: "#product_gallery .thumbnail img"
   product_description_selector: "#product_description ~ p"
+  product_category_selector: "ul.breadcrumb li:nth-child(3)"
   default_category: "books"
