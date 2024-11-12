@@ -18,7 +18,7 @@ module MyApplicationName
       # Логування ініціалізації об'єкта
       LoggerManager.log_processed_file("Created object Item: #{@name}")
 
-      # Застосування блоку, якщо передано
+
       yield(self) if block_given?
     end
 

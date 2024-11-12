@@ -30,9 +30,10 @@ configurator.configure(
   run_website_parser: 1,
   run_save_to_csv: 1,
   run_save_to_file: 1,
+  run_save_to_json: 1,
   run_save_to_yaml: 1,
-  run_save_to_sqlite: 0,
-  run_save_to_mongodb: 1,
+  run_save_to_sqlite: 1,
+  run_save_to_mongodb: 0,
 )
 puts "\nДоступні конфігураційні ключі:"
 puts MyApplicationName::Configurator.available_methods

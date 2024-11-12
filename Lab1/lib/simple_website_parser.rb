@@ -62,7 +62,9 @@ module MyApplicationName
       LoggerManager.log_processed_file("found #{name} ")
       LoggerManager.log_processed_file("found #{price} ")
 
-      category = config['web_scraping']['default_category'] || 'uncategorized'
+      # category = config['web_scraping']['default_category'] || 'uncategorized'
+      category = extract_category(page)
+
       sanitized_name = sanitize_filename(name)
       save_image(image_url, category, sanitized_name) if image_url
 
@@ -82,6 +84,11 @@ module MyApplicationName
       page.at(config['web_scraping']['product_name_selector'])&.text&.strip
     end
 
+    def extract_category(page)
+    category_element = page.at(config['web_scraping']['product_category_selector'])&.text&.strip
+    category_element || config['web_scraping']['default_category']
+    end
+    
     def extract_product_price(page)
       page.at(config['web_scraping']['product_price_selector'])&.text&.strip
     end
@@ -108,7 +115,6 @@ module MyApplicationName
       media_dir = File.join('..', 'media', category)
       FileUtils.mkdir_p(media_dir)
     
-      # Обрабатываем имя файла
       
       # LoggerManager.log_processed_file("Sanitized name: #{sanitized_name}")
     
